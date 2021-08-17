@@ -117,14 +117,23 @@ h1, h2 {
 
 /* sign up form */
 
+.form-section {
+    clear: left;
+    background-size: cover;
+    background-position: center;
+    background-color: lightgray;
+    
+}
+
 .signup-form {
     margin: 150px 10% 0 0;
     color: #000;
     background-color: lightgray;
-    width: 100%;
-    left: 10%;
+    max-width: 400px;
+    left: 10%;;
     padding: 30px;
-    margin: auto;
+    margin: 0 auto;
+    position: static;
     }
 
 .signup-form h2 {
@@ -136,11 +145,13 @@ h1, h2 {
 .text-input {
     background: transparent;
     color: black;
-    width: 100%;
+    width: 400px;
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid black;
     border-radius: 2px;
+    
+    
 }
 
 .text-input:hover {
@@ -163,4 +174,46 @@ h1, h2 {
     background-color: white;
     color: #f16c6b;
     
+}
+
+/* footer */
+
+
+footer {
+    height: 250px;
+}
+
+#contact-info {
+    text-align: center;
+    font-size: 200%;
+    letter-spacing: 2px;
+}
+
+#contact-info h2, p {
+    color: darkblue;
+}
+
+
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    margin: 1%;
+    color: black;
+}
+
+/* testamonilas section */
+
+#testamonials {
+    height: 600px;
+    width: 100%;
+    background-color: lightgreen;
 }
