@@ -89,3 +89,28 @@ h1, h2 {
     padding: 20px;
     margin: 0 auto;
 }
+/* about me */
+
+#about-me {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: darkorchid;
+    color: black;
+    text-align: center;
+}
+
+#about-me-text {
+    padding-bottom: 20px;
+    color: black;
+}
+
+#classes-times {
+    border: 1px dotted black;
+    text-align: center;
+    
+}
+.timetable {
+     font-size: 90%;
+     color: black;
+
+}
