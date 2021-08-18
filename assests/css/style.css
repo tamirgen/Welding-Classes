@@ -118,6 +118,7 @@ h1, h2 {
 .timetable {
      font-size: 90%;
      color: black;
+     list-style-type: none;
 
 }
 
@@ -242,4 +243,25 @@ footer {
 #testamonials p {
     font-size: 130%;
     font-style: italic;
+}
+
+/* Media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+    #about-me {
+        width: 65%;
+        height: 800px;
+        margin: 0 auto;
+    }
+
+    #about-me-text {
+        padding: 30px;
+        margin: 0;
+    }
+
+    hr {
+        display: none;
+    }
 }
