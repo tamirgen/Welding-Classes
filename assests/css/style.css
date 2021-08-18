@@ -302,11 +302,6 @@ footer {
             
          }
 
-         #testamonials h2 {
-             margin-left: 5px;
-             margin-right: 5px;
-         }
-
          #welding-outer {
             width: 65%;
             height: 600px;
@@ -327,7 +322,62 @@ footer {
             padding-bottom: 30px;
          }
 
+         #menu {
+            clear: right;
+         }
 
+         /* For medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+        
+        }
+        #about-me {
+            width: 90%;
+        height: 800px;
+        margin: 0 auto;
+        }
+        #form-section {
+        width: 90%;
+        height: 600px;
+        margin: 0 auto;
+        }
 
-       
+        #testamonials {
+            width: 90%;
+            height: 1000px;
+            margin: 0 auto;
+        }
+
+        #welding-outer {
+            width: 90%;
+            height: 730px;
+            margin: 0 auto;
+         }
+
+         #welding-person {
+            width: 100%;
+            clear: both;
+            height: 350px;
+            padding: 0;
+         }
+
+         #welcome-text {
+            width: 100%;
+            clear: both;
+            height: 350px;
+            padding-bottom: 30px;
+         }
+
+         h1 {
+             text-align: center;
+             margin-left: 30px;
+         }
+        
+    
 }
+
