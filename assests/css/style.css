@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&family=Roboto&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Lato, sans-serif;
+    font-family: Noto Serif, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 }
@@ -14,7 +14,7 @@ body {
 /* headings and logo */
 
 h1, h2 {
-    font-family: Oswald, sans-serif;
+    font-family: Noto Serif, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #252525;
@@ -22,7 +22,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 200%;
 }
 
 /* navigation links */
@@ -72,21 +72,23 @@ h1, h2 {
     color: black;
     background-color: blanchedalmond;
     float: right;
+    text-align: center;
 }
 
 #welcome-text h2 {
-    color: blue;
+    color: black;
     font-size: 190%;
     letter-spacing: 3px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin: 0 auto;
 }
 
 #welcome-text h3 {
-    color: darkblue;
+    color: black;
     font-size: 120%;
     letter-spacing: 3px;
-    padding: 20px;
+    padding: 10px;
     margin: 0 auto;
 }
 /* about me */
@@ -97,6 +99,10 @@ h1, h2 {
     background-color: darkorchid;
     color: black;
     text-align: center;
+}
+
+#about-me h2 {
+    padding-bottom: 20px;
 }
 
 #about-me-text {
@@ -117,7 +123,7 @@ h1, h2 {
 
 /* sign up form */
 
-.form-section {
+#form-section {
     clear: left;
     background-size: cover;
     background-position: center;
@@ -185,15 +191,14 @@ footer {
 
 #contact-info {
     text-align: center;
-    font-size: 200%;
-    letter-spacing: 2px;
+    padding-top: 20px;
+    
 }
 
 #contact-info h2, p {
-    color: darkblue;
+    color: black;
+    padding-bottom: 20px;
 }
-
-
 
 .social-networks {
     text-align: center;
@@ -213,7 +218,28 @@ footer {
 /* testamonilas section */
 
 #testamonials {
-    height: 600px;
+    height: 500px;
     width: 100%;
     background-color: lightgreen;
+}
+
+#testamonials div {
+    padding-left: 10%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#testamonials h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#testamonials h3 {
+    font-size: 170%;
+    font-style: italic;
+}
+
+#testamonials p {
+    font-size: 130%;
+    font-style: italic;
 }
