@@ -264,4 +264,23 @@ footer {
     hr {
         display: none;
     }
+
+    #form-section {
+            width: 65%;
+            height: 800px;
+            margin: 0 auto;
+         }
+
+         #name {
+            width: 65%;
+            
+         }
+
+         #email {
+             width: 65%;
+         }
+
+         #level {
+             width: 65%;
+         }
 }
