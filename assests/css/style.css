@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Noto+Serif:ital@1&family=Roboto:ital,wght@1,300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -65,9 +66,21 @@ h1 {
 
 #welding-person {
     height: 600px;
-    width: 50%;
+    width: 48%;
     background: url('../images/welding-person1.jpeg') no-repeat center center;
     float: left;
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
 
 #welcome-text {
@@ -100,7 +113,7 @@ h1 {
 #about-me {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-color: darkorchid;
+    background-color: #a8bbb9;
     color: black;
     text-align: center;
 }
@@ -117,6 +130,8 @@ h1 {
 #classes-times {
     border: 1px dotted black;
     text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
     
 }
 .timetable {
@@ -124,6 +139,10 @@ h1 {
      color: black;
      list-style-type: none;
 
+}
+
+.timetable li {
+    margin-bottom: 5px;
 }
 
 /* sign up form */
@@ -175,7 +194,7 @@ h1 {
     padding: 15px 32px 15px 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #f16c6b;
+    background-color: #ef975f;
     color: black;
     display: block;
     
@@ -183,7 +202,7 @@ h1 {
 
 .join-button:hover {
     background-color: white;
-    color: #f16c6b;
+    color: black;
     
 }
 
@@ -225,7 +244,7 @@ footer {
 #testamonials {
     height: 500px;
     width: 100%;
-    background-color: lightgreen;
+    background-color: #a3b995;
 }
 
 #testamonials div {
@@ -246,7 +265,7 @@ footer {
 
 #testamonials p {
     font-size: 130%;
-    font-style: italic;
+    font-style: Cedarville Cursive;
 }
 
 /* Media queries */
