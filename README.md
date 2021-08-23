@@ -77,7 +77,7 @@ I have tested it using Google inspect and all features of the project are workin
 
 <br>
 
-## Validator Testing
+### Validator Testing
 
 <br>
 
@@ -88,6 +88,10 @@ I have tested it using Google inspect and all features of the project are workin
 <li> No errors were found when passing through the official
 
 [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator#warnings).
+
+
+
+
 
 
 
