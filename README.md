@@ -5,6 +5,8 @@ This is a website for artists who would like to learn how to weld and are focuse
 
 The website offers visitors with general knowledge about the teacher and the possible workshop times.
 
+The website URL is: https://tamirgen.github.io/Welding-Classes/
+
 ## Features
 -------------
 <br>
