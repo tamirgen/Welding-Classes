@@ -17,6 +17,8 @@ The website offers visitors with general knowledge about the teacher and the pos
 
 <em> *In the future, this navigation bar will lead to a seperate page for each feature.</em>
 /* HERE SHOULD BE A SCREENSHOT OF NAVIAGTION */
+[navigation bar](assest/images/navigation-bar-screenshot.png?raw=true "naviagtion bar")
+
 <br>
 ### The header section
 
@@ -28,10 +30,44 @@ The website offers visitors with general knowledge about the teacher and the pos
 <br>
 
 ### The About Me section
+
 <li> The section contain some information about the teacher.</li>
 <li>The section also contain timetable of the classes days and hours.</li>
+
 /* HERE SHOULD BE A SCREENSHOT OF HEADER */
+
 <br>
+
+### The Sign Up section
+<br>
+
+<li>This section is for potential candidates to leave details so the teacher can contact them back and he already knows the skill level of the student.
+<li> The form has a "required" command, so all fields need to be filled out correctly, or the form will be sent.
+<li> The send button is responsive to hovering and the background will change color when hovered.</li>
+
+/* HERE SHOULD BE A SCREENSHOT OF SIGN UP SECTION */
+
+<br>
+
+### The Testamonials section
+
+<br>
+
+<li> The section has some comments from satisfied students from all skill level in order for potential student to get some more information</li>
+
+/* HERE SHOULD BE A SCREENSHOT OF TESTAMONIALS SECTION */
+
+<br>
+
+### The footer
+
+<br>
+
+
+
+
+
+
 
 
 
