@@ -17,7 +17,6 @@ The website offers visitors with general knowledge about the teacher and the pos
 
 <em> *In the future, this navigation bar will lead to a seperate page for each feature.</em>
 /* HERE SHOULD BE A SCREENSHOT OF NAVIAGTION */
-[navigation bar](assest/images/navigation-bar-screenshot.png?raw=true "naviagtion bar")
 
 <br>
 ### The header section
@@ -62,6 +61,34 @@ The website offers visitors with general knowledge about the teacher and the pos
 ### The footer
 
 <br>
+
+<li> The section contain contact information and links to social media.
+<li> This section is improtant as it gives the website visitors an option to explore further about the teacher and his work.
+
+<br>
+
+## Testing
+-------------
+
+<br>
+
+The website is built using media queries that makes it look good on all screen sizes.
+I have tested it using Google inspect and all features of the project are working as intended.
+
+<br>
+
+## Validator Testing
+
+<br>
+
+<li> No errors were returned when passing through the official 
+
+[W3C validator](https://validator.w3.org/nu/#textarea).
+
+<li> No errors were found when passing through the official
+
+[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator#warnings).
+
 
 
 
