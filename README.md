@@ -22,7 +22,7 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 
 <em> *In the future, this navigation bar will lead to a seperate page for each feature.</em>
 
-![Nav Bar](https://github.com/tamirgen/Welding-Classes/blob/main/assests/images/naviagtion-bar-screenshot.png?raw=true)
+![Nav Bar](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/naviagtion-bar-screenshot.png?raw=true)
 
 <br>
 ### The header section
@@ -39,7 +39,7 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 <li> The section contain some information about the teacher.</li>
 <li>The section also contain timetable of the classes days and hours.</li>
 
-![About Me Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/images/naviagtion-bar-screenshot.png?raw=true)
+![About Me Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/about-me-section.png?raw=true)
 
 <br>
 
@@ -50,7 +50,7 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 <li> The form has a "required" command, so all fields need to be filled out correctly, or the form will be sent.
 <li> The send button is responsive to hovering and the background will change color when hovered.</li>
 
-/* HERE SHOULD BE A SCREENSHOT OF SIGN UP SECTION */
+![Sign Up Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/sign-up-section.png?raw=true)
 
 <br>
 
@@ -60,7 +60,7 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 
 <li> The section has some comments from satisfied students from all skill level in order for potential student to get some more information</li>
 
-/* HERE SHOULD BE A SCREENSHOT OF TESTAMONIALS SECTION */
+![Testamonials Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/testamonials-section.png?raw=true)
 
 <br>
 
@@ -70,6 +70,8 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 
 <li> The section contain contact information and links to social media.
 <li> This section is improtant as it gives the website visitors an option to explore further about the teacher and his work.
+
+![Footer Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/footer-section.png?raw=true)
 
 <br>
 
@@ -89,11 +91,11 @@ I have tested it using Google inspect and all features of the project are workin
 
 <li> No errors were returned when passing through the official 
 
-[W3C validator](https://validator.w3.org/nu/#textarea).
+[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftamirgen.github.io%2FWelding-Classes%2Findex.html).
 
 <li> No errors were found when passing through the official
 
-[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator#warnings).
+[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftamirgen.github.io%2FWelding-Classes%2Fassests%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 
 
