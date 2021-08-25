@@ -97,6 +97,12 @@ I have tested it using Google inspect and all features of the project are workin
 
 [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftamirgen.github.io%2FWelding-Classes%2Fassests%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
+<li> Lighthouse test shows accessibility score of 97
+
+![Testamonials Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/testamonials-section.png?raw=true)
+
+
+
 
 
 
