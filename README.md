@@ -7,7 +7,7 @@ The website offers visitors with general knowledge about the teacher and the pos
 
 The website URL is: https://tamirgen.github.io/Welding-Classes/
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png?raw=true)
+![Responsice Mockup](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/moc-up-web-image.png?raw=true)
 
 
 ## Features
@@ -39,7 +39,7 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 <li> The section contain some information about the teacher.</li>
 <li>The section also contain timetable of the classes days and hours.</li>
 
-/* HERE SHOULD BE A SCREENSHOT OF HEADER */
+![About Me Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/images/naviagtion-bar-screenshot.png?raw=true)
 
 <br>
 
