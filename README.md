@@ -25,12 +25,14 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 ![Nav Bar](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/naviagtion-bar-screenshot.png?raw=true)
 
 <br>
+
 ### The header section
 
 <li> This section has an insprirational image of a welder.</li>
 <li> The section also has a slogen that sums up the main idea behind the website.</li>
 <li> The image is resposive and create an ilusation of movement.</li>
-/* HERE SHOULD BE A SCREENSHOT OF HEADER */
+
+![Header](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/naviagtion-bar-screenshot.png?raw=true)
 
 <br>
 
