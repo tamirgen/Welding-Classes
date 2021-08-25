@@ -18,7 +18,8 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 <li> The section also includes the name of the website.</li>
 
 <em> *In the future, this navigation bar will lead to a seperate page for each feature.</em>
-[Navigation Bar](https://github.com/tamirgen/Welding-Classes/blob/main/assests/images/naviagtion-bar-screenshot.png)
+
+[Nav Bar](https://github.com/tamirgen/Welding-Classes/blob/main/assests/images/naviagtion-bar-screenshot.png)
 
 <br>
 ### The header section
