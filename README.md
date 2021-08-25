@@ -5,6 +5,9 @@ This is a website for artists who would like to learn how to weld and are focuse
 
 The website offers visitors with general knowledge about the teacher and the possible workshop times.
 
+The wireframe was created for all types of devices using Balsamiq.cluod.
+Link to the project wireframe on [balsamiq.cloud](https://balsamiq.cloud/s9vduav/p8ujmmr)
+
 The website URL is: https://tamirgen.github.io/Welding-Classes/
 
 ![Responsice Mockup](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/moc-up-web-image.png?raw=true)
