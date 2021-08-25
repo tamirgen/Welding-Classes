@@ -32,7 +32,7 @@ The website URL is: https://tamirgen.github.io/Welding-Classes/
 <li> The section also has a slogen that sums up the main idea behind the website.</li>
 <li> The image is resposive and create an ilusation of movement.</li>
 
-![Header](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/naviagtion-bar-screenshot.png?raw=true)
+![Header](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/header-screenshot.png?raw=true)
 
 <br>
 
