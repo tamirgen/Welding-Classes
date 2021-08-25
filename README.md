@@ -99,7 +99,48 @@ I have tested it using Google inspect and all features of the project are workin
 
 <li> Lighthouse test shows accessibility score of 97
 
-![Testamonials Section](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/testamonials-section.png?raw=true)
+![Lighthouse](https://github.com/tamirgen/Welding-Classes/blob/main/assests/media/lighthouse-screenshot.png?raw=true)
+
+
+### Unfixed Bugs
+
+No unfixed bugs found
+
+<br>
+
+## Deployment
+
+<br>
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - Scrol down to the GitHub Pages section and click on the link to open the deployment page
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here -[Eyal Habib welding classes](https://tamirgen.github.io/Welding-Classes/index.html)
+
+## Credits
+
+<br>
+
+## Content
+
+- The code for social media were taken from the CI [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/e6d4cda2bc08458ba94d2092be9bad3a/) project.
+
+- The codes for most of the project were inspired by the the CI [Love Running](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce/) project.
+
+-I recived help from my mentor Nishant Kumar with uploading screenshots and links for the README.md file.
+
+- I have used fonts from [fonts.google.com](https://fonts.google.com/specimen/Cedarville+Cursive?query=Cedarville+Cursive)
+
+- In the header part I have used an image from [fontawesome.com](https://fontawesome.com/v5.15/icons/tools?style=solid)
+
+## media
+
+- The iamge used for the header was taken from [pexels.com](https://www.pexels.com/search/welding/)
+
+
 
 
 
